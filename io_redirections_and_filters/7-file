@@ -1,3 +1,2 @@
 #!/bin/bash
-nom_du_fichier=$'*\\\'"Best School"\\\'\\*$?*****:)'
-echo "Best School" > "$nom_du_fichier"
+echo "Best School" > '*\\'\''"Best School"'\''\\*$?*****:)'
