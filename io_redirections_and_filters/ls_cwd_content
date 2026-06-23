@@ -1,1 +1,14 @@
-ls -la
+total 48
+drwxr-xr-x 2 major major 4096 Jun 23 13:45 .
+drwxr-xr-x 6 major major 4096 Jun 22 18:10 ..
+-rwxr-xr-x 1 major major   32 Jun 19 17:56 0-hello_world
+-rwxr-xr-x 1 major major   29 Jun 19 18:20 1-confused_smiley
+-rwxr-xr-x 1 major major   28 Jun 19 18:40 2-hellofile
+-rwxr-xr-x 1 major major   39 Jun 19 18:45 3-twofiles
+-rwxr-xr-x 1 major major   35 Jun 19 19:21 4-lastlines
+-rwxr-xr-x 1 major major   35 Jun 19 19:31 5-firstlines
+-rwxr-xr-x 1 major major   40 Jun 22 17:29 6-third_line
+-rwxr-xr-x 1 major major   72 Jun 23 12:32 7-file
+-rwxr-xr-x 1 major major   36 Jun 23 13:30 8-cwd_state
+-rw-r--r-- 1 major major   44 Jun 19 17:48 README.md
+-rw-r--r-- 1 major major    0 Jun 23 13:45 ls_cwd_content
